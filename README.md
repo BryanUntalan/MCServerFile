@@ -1,1 +1,3 @@
-If you are here to join the modded minecraft server, then download the FTBEvolutionplayer.zip modpack.
+Steps to download the modpack:
+1. Click FTBEvolutionplayer.zip
+2. 
